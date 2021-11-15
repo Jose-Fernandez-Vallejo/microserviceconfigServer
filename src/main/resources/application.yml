@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-         uri: https://github.com/Jose-Fernandez-Vallejo/microserviceconfigServer
+         uri: https://github.com/Jose-Fernandez-Vallejo/microserviceconfigServer/microserviceConfigServer
          default-label: main
          search-paths:
           - '*-service'
